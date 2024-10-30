@@ -13,7 +13,7 @@
 </li>
 </ol>
 
-
+<h3>Other</h3>
 1. Type hints: <https://mypy.readthedocs.io/en/stable/builtin_types.html>
 2. Документация allure: <https://allurereport.org/docs/> 
 
