@@ -1,5 +1,19 @@
 # Полезное 
 
+<h3>Инструкция по запуску проекта:</h3>
+<h5>Предполагаем, что все уже установлено</h5>
+<ol>
+<li> В терминале открыть папку lesson1/app
+</li>
+<li> Выполнить команду "uvicorn main:app --reload", чтобы запустить бэкенд
+</li>
+<li> В терминале открыть папку lesson1/app/front
+</li>
+<li> Выполнить команду "nmp run dev", чтобы запустить фронтэнд
+</li>
+</ol>
+
+
 1. Type hints: <https://mypy.readthedocs.io/en/stable/builtin_types.html>
 2. Документация allure: <https://allurereport.org/docs/> 
 
